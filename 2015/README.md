@@ -1,7 +1,7 @@
 # :christmas_tree: Advent of Code 2015 :christmas_tree:
 
 
-* :black_large_square: [Day 1](https://github.com/savio-henrique/advent-of-code/tree/master/2015/Day%201)
+* :ballot_box_with_check: [Day 1](https://github.com/savio-henrique/advent-of-code/tree/master/2015/Day%201)
 * :black_large_square: [Day 2](https://github.com/savio-henrique/advent-of-code/tree/master/2015/Day%202)
 * :black_large_square: [Day 3](https://github.com/savio-henrique/advent-of-code/tree/master/2015/Day%203)
 * :black_large_square: [Day 4](https://github.com/savio-henrique/advent-of-code/tree/master/2015/Day%204)
