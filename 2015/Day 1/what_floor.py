@@ -13,7 +13,6 @@ for i in range(len(input)):
 #Part 2#
     if floor == -1:
         position = i+1 if position == None else position
-        break
 # Part 2#
-
-print(position)
+print(floor) #Part 1 Solution
+print(position) #Part 2 Solution
