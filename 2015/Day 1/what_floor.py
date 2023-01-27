@@ -12,7 +12,7 @@ for i in range(len(input)):
 #Part 1#
 #Part 2#
     if floor == -1:
-        position = i+1 if position == None else positions
+        position = i+1 if position == None else position
         break
 # Part 2#
 
