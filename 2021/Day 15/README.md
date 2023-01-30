@@ -1,11 +1,17 @@
 # :christmas_tree: Advent of Code 2021 :christmas_tree: - Day 15 :sparkles:
-## Question: 
->
->
->
+## :star2: Title :star2:
 
-### *Input:*
+### :question: Question: 
 
 >
 >
 >
+
+<p>
+<details><summary><b><i>:clipboard: Input:</i></b></summary>
+
+>```
+>
+>```
+
+</details>
