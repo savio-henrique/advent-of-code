@@ -1,5 +1,4 @@
-input = open('input.txt','r')
-input = input.read()
+input = open('input.txt').read()
 
 floor = 0
 #Part 1#
