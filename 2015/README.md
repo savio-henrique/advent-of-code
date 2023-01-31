@@ -2,10 +2,10 @@
 
 
 * :ballot_box_with_check: [Day 1](https://github.com/savio-henrique/advent-of-code/tree/master/2015/Day%201)
-* :black_large_square: [Day 2](https://github.com/savio-henrique/advent-of-code/tree/master/2015/Day%202)
-* :black_large_square: [Day 3](https://github.com/savio-henrique/advent-of-code/tree/master/2015/Day%203)
-* :black_large_square: [Day 4](https://github.com/savio-henrique/advent-of-code/tree/master/2015/Day%204)
-* :black_large_square: [Day 5](https://github.com/savio-henrique/advent-of-code/tree/master/2015/Day%205)
+* :ballot_box_with_check: [Day 2](https://github.com/savio-henrique/advent-of-code/tree/master/2015/Day%202)
+* :ballot_box_with_check: [Day 3](https://github.com/savio-henrique/advent-of-code/tree/master/2015/Day%203)
+* :ballot_box_with_check: [Day 4](https://github.com/savio-henrique/advent-of-code/tree/master/2015/Day%204)
+* :ballot_box_with_check: [Day 5](https://github.com/savio-henrique/advent-of-code/tree/master/2015/Day%205)
 * :black_large_square: [Day 6](https://github.com/savio-henrique/advent-of-code/tree/master/2015/Day%206)
 * :black_large_square: [Day 7](https://github.com/savio-henrique/advent-of-code/tree/master/2015/Day%207)
 * :black_large_square: [Day 8](https://github.com/savio-henrique/advent-of-code/tree/master/2015/Day%208)
