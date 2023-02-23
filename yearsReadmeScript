@@ -1,0 +1,1 @@
+for year in {2015..2022}; do cd /home/saviohc/Projetos/AdventOfCode/$year; printf '# :christmas_tree: Advent of Code %s :christmas_tree:\n\n\n' $year > README.md;for day in {1..25}; do printf '* :black_large_square: [Day %s](https://github.com/savio-henrique/advent-of-code/tree/master/%s/Day%%20%s)\n' $day $year $day >> README.md;done; done
